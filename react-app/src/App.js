@@ -29,7 +29,7 @@ const BlogResults = () => {
 
   return (
     <div>
-      <div class="row">
+      <div className="row">
       {blogArticles.map((blogarticle) => (
         <div className="single-article col-md-4">
           <h4>{blogarticle.title}</h4>

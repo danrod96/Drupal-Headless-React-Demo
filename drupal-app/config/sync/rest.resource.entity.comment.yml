@@ -1,0 +1,21 @@
+uuid: 4afecb9d-686e-45be-b3fc-215f79f2415a
+langcode: en
+status: true
+dependencies:
+  module:
+    - comment
+    - serialization
+    - user
+id: entity.comment
+plugin_id: 'entity:comment'
+granularity: resource
+configuration:
+  methods:
+    - GET
+    - POST
+    - DELETE
+    - PATCH
+  formats:
+    - json
+  authentication:
+    - cookie

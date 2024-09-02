@@ -1,0 +1,7 @@
+uuid: 7ea2f6f5-1274-4989-9fe1-4429836136f6
+langcode: en
+status: true
+dependencies: {  }
+name: image_url
+label: 'Image URL'
+effects: {  }

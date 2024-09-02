@@ -34,4 +34,4 @@ These packages need to be installed:
 
 2. Then run `npm run start` to run your React App, a new browser tab will popup to load the app at https://localhost:3000
 
-You should see the blog nodes
+You should see the blog nodes being rendered in the React App
